@@ -141,8 +141,7 @@ SQL concepts demonstrated include filtering, sorting, aggregate functions, `DIST
 
 | Platform | Profile link |
 | --- | --- |
-| GitHub | [https://github.com/rishugupta5701](https://github.com/YOUR_GITHUB_USERNAME) |
-| LinkedIn | [https://www.linkedin.com/in/rishu-gupta-717915335/](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/) |
-| Instagram | [https://www.instagram.com/rishugupta5701/](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/) |
+| GitHub | https://github.com/rishugupta5701
+| LinkedIn | https://www.linkedin.com/in/rishu-gupta-717915335/
 
 <!-- Optional: Add a short personal introduction or portfolio link here. -->
